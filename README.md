@@ -248,7 +248,7 @@ The notebook generates:
 
 **Rida Fatima**
 
-Data Science / Artificial Intelligence Internship
+Data Analytics Internship
 
 ---
 
